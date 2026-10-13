@@ -11,11 +11,11 @@ st.set_page_config(
 # 1. Tạo dữ liệu sinh viên
 data = {
     "Ho_va_ten": [
-        "Nguyen Van An", "Tran Thi Binh",
-        "Le Van Cuong", "Pham Thi Dung",
-        "Hoang Van Em", "Vu Thi Giang",
-        "Do Van Hung", "Bui Thi Lan",
-        "Ngo Van Minh", "Dang Thi Nga"
+        "Huynh Le Anh Khoa", "Pham Gia Hung",
+        "Le Minh Vu", "Le Gia Hoa",
+        "Tran Vinh Minh Triet", "Ha Gia Huy",
+        "Le Nhat Hoang Trieu", "Huynh Van Thanh",
+        "Le Thi Diem", "Le Van Phuong"
     ],
     "Chuyen_can": [9, 8, 7, 10, 6, 9, 5, 8, 7, 10],
     "Giua_ky": [8, 7, 6, 9, 5, 8, 4, 7, 6, 9],
