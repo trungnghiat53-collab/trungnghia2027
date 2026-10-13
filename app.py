@@ -108,4 +108,4 @@ plt.close(fig)
 
 # 8. Thông tin người tạo
 st.divider()
-st.caption("Người tạo: [Họ và tên của bạn] | MSSV: [MSSV của bạn]")
+st.caption("Người tạo: [Trần Trung Nghĩa] | MSSV: [056208002156]")
